@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+
+.box{
+    border: 1px solid #0f0f0f7b;
+    border-radius: 10px;
+    margin: 30px 90px;
+    padding: 30px 30px;
+}
+
+img{
+    width: 620px; 
+    height: 200px;
+    margin: 0px 90px;
+    border-radius:10px;
+    
+}
+
+.box-inside{
+    margin: 0px 60px;
+    margin-top: -30px ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #0f0f0f7b;
+}
